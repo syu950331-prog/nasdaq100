@@ -1,0 +1,826 @@
+[
+    {
+        "ticker": "AAPL",
+        "company_name": "Apple Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "AMAT",
+        "company_name": "Applied Materials, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "AMGN",
+        "company_name": "Amgen Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CMCSA",
+        "company_name": "Comcast Corporation Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "INTC",
+        "company_name": "Intel Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "KLAC",
+        "company_name": "KLA Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "PCAR",
+        "company_name": "PACCAR Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CTAS",
+        "company_name": "Cintas Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "PAYX",
+        "company_name": "Paychex, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "LRCX",
+        "company_name": "Lam Research Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ADSK",
+        "company_name": "Autodesk, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ROST",
+        "company_name": "Ross Stores, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MNST",
+        "company_name": "Monster Beverage Corporation",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MSFT",
+        "company_name": "Microsoft Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ADBE",
+        "company_name": "Adobe Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "FAST",
+        "company_name": "Fastenal Company Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "EA",
+        "company_name": "Electronic Arts Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CSCO",
+        "company_name": "Cisco Systems, Inc. Common Stock (DE)",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "REGN",
+        "company_name": "Regeneron Pharmaceuticals, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "IDXX",
+        "company_name": "IDEXX Laboratories, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "VRTX",
+        "company_name": "Vertex Pharmaceuticals Incorporated Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ODFL",
+        "company_name": "Old Dominion Freight Line, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "QCOM",
+        "company_name": "QUALCOMM Incorporated Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "GILD",
+        "company_name": "Gilead Sciences, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "SNPS",
+        "company_name": "Synopsys, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "SBUX",
+        "company_name": "Starbucks Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "INTU",
+        "company_name": "Intuit Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MCHP",
+        "company_name": "Microchip Technology Incorporated Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ORLY",
+        "company_name": "O'Reilly Automotive, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "COST",
+        "company_name": "Costco Wholesale Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CPRT",
+        "company_name": "Copart, Inc. (DE) Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ASML",
+        "company_name": "ASML Holding N.V. New York Registry Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "TTWO",
+        "company_name": "Take-Two Interactive Software, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "AMZN",
+        "company_name": "Amazon.com, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MSTR",
+        "company_name": "Strategy Inc Common Stock Class A",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "NVDA",
+        "company_name": "NVIDIA Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "BKNG",
+        "company_name": "Booking Holdings Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ISRG",
+        "company_name": "Intuitive Surgical, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MRVL",
+        "company_name": "Marvell Technology, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ADI",
+        "company_name": "Analog Devices, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "AEP",
+        "company_name": "American Electric Power Company, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "AMD",
+        "company_name": "Advanced Micro Devices, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ADP",
+        "company_name": "Automatic Data Processing, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CDNS",
+        "company_name": "Cadence Design Systems, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CSX",
+        "company_name": "CSX Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "HON",
+        "company_name": "Honeywell International Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MAR",
+        "company_name": "Marriott International Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MU",
+        "company_name": "Micron Technology, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "XEL",
+        "company_name": "Xcel Energy Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "EXC",
+        "company_name": "Exelon Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "PEP",
+        "company_name": "PepsiCo, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ROP",
+        "company_name": "Roper Technologies, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "TER",
+        "company_name": "Teradyne, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "TXN",
+        "company_name": "Texas Instruments Incorporated Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "WDC",
+        "company_name": "Western Digital Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "WMT",
+        "company_name": "Walmart Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "AXON",
+        "company_name": "Axon Enterprise, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MDLZ",
+        "company_name": "Mondelez International, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "NFLX",
+        "company_name": "Netflix, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "STX",
+        "company_name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ALNY",
+        "company_name": "Alnylam Pharmaceuticals, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "GOOGL",
+        "company_name": "Alphabet Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MPWR",
+        "company_name": "Monolithic Power Systems, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "DXCM",
+        "company_name": "DexCom, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "TMUS",
+        "company_name": "T-Mobile US, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "MELI",
+        "company_name": "MercadoLibre, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "KDP",
+        "company_name": "Keurig Dr Pepper Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "NBIS",
+        "company_name": "Nebius Group N.V. Class A Ordinary Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "AVGO",
+        "company_name": "Broadcom Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "FTNT",
+        "company_name": "Fortinet, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "TSLA",
+        "company_name": "Tesla, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "NXPI",
+        "company_name": "NXP Semiconductors N.V. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "FANG",
+        "company_name": "Diamondback Energy, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "META",
+        "company_name": "Meta Platforms, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "PANW",
+        "company_name": "Palo Alto Networks, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "WDAY",
+        "company_name": "Workday, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "GOOG",
+        "company_name": "Alphabet Inc. Class C Capital Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "PYPL",
+        "company_name": "PayPal Holdings, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "SHOP",
+        "company_name": "Shopify Inc. Class A Subordinate Voting Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "KHC",
+        "company_name": "The Kraft Heinz Company Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "LITE",
+        "company_name": "Lumentum Holdings Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CCEP",
+        "company_name": "Coca-Cola Europacific Partners plc Ordinary Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "BKR",
+        "company_name": "Baker Hughes Company Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "PDD",
+        "company_name": "PDD Holdings Inc. American Depositary Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CRWD",
+        "company_name": "CrowdStrike Holdings, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "DDOG",
+        "company_name": "Datadog, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "RKLB",
+        "company_name": "Rocket Lab Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "PLTR",
+        "company_name": "Palantir Technologies Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ABNB",
+        "company_name": "Airbnb, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "DASH",
+        "company_name": "DoorDash, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "APP",
+        "company_name": "Applovin Corporation Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CEG",
+        "company_name": "Constellation Energy Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "WBD",
+        "company_name": "Warner Bros. Discovery, Inc. Series A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "GEHC",
+        "company_name": "GE HealthCare Technologies Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "LIN",
+        "company_name": "Linde plc Ordinary Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ARM",
+        "company_name": "Arm Holdings plc American Depositary Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "TRI",
+        "company_name": "Thomson Reuters Corporation Common Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "FER",
+        "company_name": "Ferrovial N.V. Ordinary Shares",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "ALAB",
+        "company_name": "Astera Labs, Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "SNDK",
+        "company_name": "Sandisk Corporation Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "CRWV",
+        "company_name": "CoreWeave, Inc. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "SPCX",
+        "company_name": "Space Exploration Technologies Corp. Class A Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    },
+    {
+        "ticker": "HONA",
+        "company_name": "Honeywell Aerospace Inc. Common Stock",
+        "is_constituent": true,
+        "sector": "",
+        "source_url": "https://api.nasdaq.com/api/quote/list-type/nasdaq100",
+        "collected_at": "2026-07-15T01:31:16.660897Z"
+    }
+]

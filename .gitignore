@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment and secrets
+.env
+
+# Project specific data and outputs cache (if you don't want to commit actual downloaded data)
+# For the PoC, we might want to commit raw data fixtures for test reproducibility,
+# but we shouldn't commit temporary run caches if any. We will commit data/ for offline execution.
+# outputs/ can be ignored or committed. Let's ignore local run outputs.
+outputs/*.csv
+outputs/*.json
+!outputs/.gitkeep
