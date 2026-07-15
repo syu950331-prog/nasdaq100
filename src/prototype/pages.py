@@ -93,13 +93,13 @@ def render_inclusion_candidates():
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        search_query = st.text_input("티커 또는 기업명 검색", "").strip().upper()
+        search_query = st.text_input("티커 또는 기업명 검색", "", key="inc_search").strip().upper()
     with col2:
         sectors = ["전체"] + sorted(list(df["sector"].dropna().unique()))
-        selected_sector = st.selectbox("업종(Sector) 필터", sectors)
+        selected_sector = st.selectbox("업종(Sector) 필터", sectors, key="inc_sector")
     with col3:
         statuses = ["전체"] + sorted(list(df["eligibility_status"].dropna().unique()))
-        selected_status = st.selectbox("적격 상태 필터", statuses)
+        selected_status = st.selectbox("적격 상태 필터", statuses, key="inc_status")
         
     # Apply filters
     filtered_df = df.copy()
@@ -145,7 +145,7 @@ def render_inclusion_candidates():
     if len(filtered_df) == 0:
         st.write("선택된 필터에 해당하는 기업이 없습니다.")
     else:
-        selected_ticker = st.selectbox("상세 정보를 확인할 기업을 선택하세요.", filtered_df["ticker"].tolist())
+        selected_ticker = st.selectbox("상세 정보를 확인할 기업을 선택하세요.", filtered_df["ticker"].tolist(), key="inc_detail_ticker")
         comp_row = filtered_df[filtered_df["ticker"] == selected_ticker].iloc[0]
         
         st.markdown(f"#### **{comp_row['company_name']} ({comp_row['ticker']})**")
@@ -178,10 +178,10 @@ def render_exclusion_candidates():
     col1, col2 = st.columns(2)
     
     with col1:
-        search_query = st.text_input("티커 또는 기업명 검색", "").strip().upper()
+        search_query = st.text_input("티커 또는 기업명 검색", "", key="exc_search").strip().upper()
     with col2:
         sectors = ["전체"] + sorted(list(df["sector"].dropna().unique()))
-        selected_sector = st.selectbox("업종(Sector) 필터", sectors)
+        selected_sector = st.selectbox("업종(Sector) 필터", sectors, key="exc_sector")
         
     # Apply filters
     filtered_df = df.copy()
@@ -223,7 +223,7 @@ def render_exclusion_candidates():
     if len(filtered_df) == 0:
         st.write("선택된 필터에 해당하는 기업이 없습니다.")
     else:
-        selected_ticker = st.selectbox("상세 정보를 확인할 기업을 선택하세요.", filtered_df["ticker"].tolist())
+        selected_ticker = st.selectbox("상세 정보를 확인할 기업을 선택하세요.", filtered_df["ticker"].tolist(), key="exc_detail_ticker")
         comp_row = filtered_df[filtered_df["ticker"] == selected_ticker].iloc[0]
         
         st.markdown(f"#### **{comp_row['company_name']} ({comp_row['ticker']})**")
@@ -308,9 +308,9 @@ def render_ai_analysis():
         
     col_in1, col_in2 = st.columns(2)
     with col_in1:
-        selected_ticker = st.selectbox("분석 대상 종목 선택", tickers)
+        selected_ticker = st.selectbox("분석 대상 종목 선택", tickers, key="ai_ticker_select")
     with col_in2:
-        analysis_type = st.selectbox("분석 유형 선택", ["SEC 공시 요약", "지수 방법론 비교", "시나리오 모델링"])
+        analysis_type = st.selectbox("분석 유형 선택", ["SEC 공시 요약", "지수 방법론 비교", "시나리오 모델링"], key="ai_analysis_type")
         
-    if st.button("분석 실행", use_container_width=True):
+    if st.button("분석 실행", use_container_width=True, key="ai_run_button"):
         st.info("현재 Prototype에서는 AI 모델을 연결하지 않았습니다. 향후 공식 문서 기반 RAG와 인용 검증 기능을 추가할 예정입니다.")

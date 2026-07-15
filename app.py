@@ -41,22 +41,16 @@ def main():
     # Render sidebar controls & navigation
     render_sidebar()
     
-    # Simple navigation routing
-    if "nav_page" not in st.session_state:
-        st.session_state["nav_page"] = "Overview"
-        
-    page = st.sidebar.radio(
-        "화면 선택",
-        ["Overview", "편입 관찰 후보", "편출 관찰 후보", "AI 분석 기능 예정"]
-    )
+    # Top navigation bar using st.tabs
+    tab1, tab2, tab3, tab4 = st.tabs(["Overview", "편입 관찰 후보", "편출 관찰 후보", "AI 분석 기능 예정"])
     
-    if page == "Overview":
+    with tab1:
         render_overview()
-    elif page == "편입 관찰 후보":
+    with tab2:
         render_inclusion_candidates()
-    elif page == "편출 관찰 후보":
+    with tab3:
         render_exclusion_candidates()
-    elif page == "AI 분석 기능 예정":
+    with tab4:
         render_ai_analysis()
 
 if __name__ == "__main__":
